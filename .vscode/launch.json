@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckPalindrome",
+            "request": "launch",
+            "mainClass": "tasks.palindrome.CheckPalindrome",
+            "projectName": "dev-fun-java_5977bb1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CenturyFromYear",
+            "request": "launch",
+            "mainClass": "tasks.century_from_year.CenturyFromYear",
+            "projectName": "dev-fun-java_5977bb1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestNumber",
+            "request": "launch",
+            "mainClass": "tasks.largest_number_n.LargestNumber",
+            "projectName": "dev-fun-java_5977bb1"
+        }
+    ]
+}
